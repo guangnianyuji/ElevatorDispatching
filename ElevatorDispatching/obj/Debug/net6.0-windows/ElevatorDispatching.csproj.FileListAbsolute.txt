@@ -1,0 +1,17 @@
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows\ElevatorDispatching.csproj.AssemblyReference.cache
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows\ElevatorDispatching.csproj.GenerateResource.cache
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows\ElevatorDispatching.GeneratedMSBuildEditorConfig.editorconfig
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows\ElevatorDispatching.AssemblyInfoInputs.cache
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows\ElevatorDispatching.AssemblyInfo.cs
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows\ElevatorDispatching.csproj.CoreCompileInputs.cache
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\bin\Debug\net6.0-windows\ElevatorDispatching.exe
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\bin\Debug\net6.0-windows\ElevatorDispatching.deps.json
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\bin\Debug\net6.0-windows\ElevatorDispatching.runtimeconfig.json
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\bin\Debug\net6.0-windows\ElevatorDispatching.dll
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\bin\Debug\net6.0-windows\ElevatorDispatching.pdb
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows\ElevatorDispatching.dll
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows\refint\ElevatorDispatching.dll
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows\ElevatorDispatching.pdb
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows\ElevatorDispatching.genruntimeconfig.cache
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows\ref\ElevatorDispatching.dll
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows\ElevatorDispatching.Form1.resources

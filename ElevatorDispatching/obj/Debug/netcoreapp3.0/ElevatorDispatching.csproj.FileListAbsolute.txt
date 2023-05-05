@@ -1,0 +1,7 @@
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\netcoreapp3.0\ElevatorDispatching.csproj.AssemblyReference.cache
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\netcoreapp3.0\ElevatorDispatching.Form1.resources
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\netcoreapp3.0\ElevatorDispatching.csproj.GenerateResource.cache
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\netcoreapp3.0\ElevatorDispatching.GeneratedMSBuildEditorConfig.editorconfig
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\netcoreapp3.0\ElevatorDispatching.AssemblyInfoInputs.cache
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\netcoreapp3.0\ElevatorDispatching.AssemblyInfo.cs
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\netcoreapp3.0\ElevatorDispatching.csproj.CoreCompileInputs.cache

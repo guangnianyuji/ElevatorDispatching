@@ -1,0 +1,17 @@
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\bin\Debug\net6.0-windows8.0\ElevatorDispatching.exe
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\bin\Debug\net6.0-windows8.0\ElevatorDispatching.deps.json
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\bin\Debug\net6.0-windows8.0\ElevatorDispatching.runtimeconfig.json
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\bin\Debug\net6.0-windows8.0\ElevatorDispatching.dll
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\bin\Debug\net6.0-windows8.0\ElevatorDispatching.pdb
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows8.0\ElevatorDispatching.csproj.AssemblyReference.cache
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows8.0\ElevatorDispatching.Form1.resources
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows8.0\ElevatorDispatching.csproj.GenerateResource.cache
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows8.0\ElevatorDispatching.GeneratedMSBuildEditorConfig.editorconfig
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows8.0\ElevatorDispatching.AssemblyInfoInputs.cache
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows8.0\ElevatorDispatching.AssemblyInfo.cs
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows8.0\ElevatorDispatching.csproj.CoreCompileInputs.cache
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows8.0\ElevatorDispatching.dll
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows8.0\refint\ElevatorDispatching.dll
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows8.0\ElevatorDispatching.pdb
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows8.0\ElevatorDispatching.genruntimeconfig.cache
+E:\syfuniversity\课程\操作系统\ElevatorDispatching\ElevatorDispatching\obj\Debug\net6.0-windows8.0\ref\ElevatorDispatching.dll
