@@ -4,7 +4,7 @@
 
 ## 1 项目简介
 
-![image-20230528162139974](DemandPaging设计方案.assets/image-20230528162139974.png)
+![](https://github.com/guangnianyuji/OS-project/blob/master/OS-2-DemandPaging/picture/image-20230528162139974.png?raw=true)
 
 ### 1.1 基本任务
 
@@ -90,7 +90,7 @@
 
 ## 3 界面及功能介绍
 
-![image-20230528165711062](DemandPaging设计方案.assets/image-20230528165711062.png)
+![](https://github.com/guangnianyuji/OS-project/blob/master/OS-2-DemandPaging/picture/image-20230528165711062.png?raw=true)
 
 - 单步执行
 
@@ -132,7 +132,7 @@
 
   在可以选择的情况下，通过下拉条对置换算法进行选择。
 
-  <img src="DemandPaging设计方案.assets/image-20230528172740091.png" alt="image-20230528172740091" style="zoom:25%;" />
+  
 
 - 左侧信息展示
 
@@ -152,7 +152,7 @@
 
 - 执行完毕信息提示
 
-  <img src="DemandPaging设计方案.assets/image-20230528185553726.png" alt="image-20230528185553726" style="zoom:33%;" />
+  ![](https://github.com/guangnianyuji/OS-project/blob/master/OS-2-DemandPaging/picture/image-20230528172740091.png?raw=true)
 
   ## 4 实现算法
 
